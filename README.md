@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Data Structures and Algorithms<br>👯 I’m looking to collaborate on ML and Python related Projects <br>🤝 I’m looking for help with Dynamic Programming<br>🌱 I’m currently learning Database Management<br>⚡ Aspiring Java Developer 
- <br> Portfolio - https://shivam-portfolio14.netlify.app/
+ <br> ⏩ Portfolio - https://shivam-portfolio14.netlify.app/
 
 
 ## 🌐 Socials:
